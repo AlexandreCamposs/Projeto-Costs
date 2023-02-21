@@ -1,5 +1,22 @@
 {
-  "projects": [],
+  "projects": [
+    {
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Front-End",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
   "categories": [
     {
       "id": 1,
